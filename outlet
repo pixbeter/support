@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Photo 1",
+    "description": "48% discount Elite Brambo Goalkeeper Glove",
+    "imageUrl": "https://i.ibb.co/tsNk2nX/Elite-Brambo-Goalkeeper-Glove.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Photo 2",
+    "description": "19% discount for Fight shorts | Martial Arts Pants",
+    "imageUrl": "https://i.ibb.co/j4zHLcQ/Fightshorts-Martial-Arts.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Photo 3",
+    "description": "Up to 30% discount for Adidas Boxing Shoes Box-Hog 2.0 Black White",
+    "imageUrl": "https://i.ibb.co/ky3TX4K/Adidas-Boxing-Shoes-Box-Hog-2-0-Black-White.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Photo 4",
+    "description": "Double bonuses when purchasing a new Nike NFHS Club Elite Team Bal",
+    "imageUrl": "https://i.ibb.co/YfzXj7B/Nike-NFHS-Club-Elite-Team-Bal.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Photo 5",
+    "description": "Up to 20% discount for all nike football t-shirt",
+    "imageUrl": "https://i.ibb.co/PxCwCpS/nike-football-t-shirt.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Photo 6",
+    "description": "New collection Rash Guards with 10% discount ",
+    "imageUrl": "https://i.ibb.co/Wkpt1XZ/rash-guards-compression-shirts.jpg"
+  }
+]
