@@ -1,0 +1,4 @@
+get {
+upload (img)
+upload (txt)
+}
