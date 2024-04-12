@@ -1,0 +1,13 @@
+{
+"id": 1,
+"question" : "First quetion is",
+"image_url" : "https://i.ibb.co/PrwWDbC/2024-03-15-16-25-21.png",
+"right_answer" : 1,
+"bonus" : 10,
+"answers" : [
+    "answer1",
+    "answer2",
+    "answer3",
+    "answer4"
+]
+}
