@@ -3,7 +3,7 @@
 "question" : "Which country came first at the 2022 FIFA World Cup in Qatar?",
 "image_url" : "https://i.ibb.co/THzhYBQ/fifa.jpg",
 "right_answer" : 1,
-"bonus" : 10,
+"bonus" : 250,
 "answers" : [
     "Germany",
     "Argentina",
